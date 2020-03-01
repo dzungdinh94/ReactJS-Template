@@ -32,7 +32,7 @@ describe('<ReposList />', () => {
         owner: {
           login: 'mxstbr',
         },
-        html_url: 'https://github.com/react-boilerplate/react-boilerplate',
+        html_url: 'https://github.com/dzungdinh94/ReactJS-Template.git',
         name: 'react-boilerplate',
         open_issues_count: 20,
         full_name: 'react-boilerplate/react-boilerplate',
